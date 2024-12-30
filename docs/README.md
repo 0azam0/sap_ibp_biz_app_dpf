@@ -1,4 +1,4 @@
-# SAP IBP and DataRobot Setup and Configuration
+# SAP IBP and DataRobot Integration Setup and Configuration
 
 ## Description
 
